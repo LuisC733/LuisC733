@@ -26,4 +26,4 @@ Doing competitive programming in C++ and looking to get into open source — cur
 ## Links
 
 - 📫 Reach me at [lahrluis@icloud.com](mailto:lahrluis@icloud.com)
-- 🔗 [LinkedIn](www.linkedin.com/in/luis-lahr-ba2726439)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luis-lahr-ba2726439)
