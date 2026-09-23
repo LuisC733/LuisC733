@@ -25,5 +25,5 @@ Doing competitive programming in C++ and looking to get into open source — cur
 
 ## Links
 
-- 📫 Reach me at [your-email@example.com](mailto:lahrluis@icloud.com)
+- 📫 Reach me at [lahrluis@icloud.com](mailto:lahrluis@icloud.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/USERNAME)
