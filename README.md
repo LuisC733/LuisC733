@@ -1,4 +1,3 @@
-[GitHubREADME.md](https://github.com/user-attachments/files/32576293/GitHubREADME.md)
 # Hey, I'm Luis
 
 CS student at Heinrich-Heine-Universität Düsseldorf, focused on systems programming and algorithmics.
