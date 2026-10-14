@@ -22,5 +22,5 @@ Looking to get into open source — currently scoping first contributions.
  
 ## Links
  
-- 📫 Reach me at [lahrluis@icloud.com](mailto:lahrluis@icloud.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/luis-lahr-ba2726439)
+- 📫 Reach me at [luis.lahr.cs@outlook.com](mailto:luis.lahr.cs@outlook.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luis-lahr-cs)
